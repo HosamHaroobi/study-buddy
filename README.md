@@ -8,7 +8,7 @@
 
 # 
 
-![Study Buddy logo](logo.svg)
+<p align="center"><img src="logo.svg" alt="Study Buddy logo" width="500"></p>
 
 # 
 
