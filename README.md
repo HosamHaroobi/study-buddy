@@ -1,20 +1,7 @@
-# 
 
-# 
-
-# 
-
-# 
-
-# 
 
 <p align="center"><img src="logo.svg" alt="Study Buddy logo" width="500"></p>
 
-# 
-
-# 
-
-# 
 
 # AWS Cloud Practitioner RAG Study Buddy
 
