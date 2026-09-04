@@ -8,7 +8,7 @@
 
 # 
 
-# !\[Study Buddy logo](logo.svg)
+![Study Buddy logo](logo.svg)
 
 # 
 
